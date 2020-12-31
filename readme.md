@@ -1,10 +1,13 @@
-# C Program
+# Hana Calculator for the Command-Line.
 
 ## About
 
 * * *
 
-Please add relevant information about your application.
+Hana Calculate is a modern calculator that can be used
+in either basic or complex math equations. Gain the
+ability to compute the answers to your math questions
+from the command-line.
 
 ## Tooling information
 
@@ -40,7 +43,7 @@ meson install -C builddir
 And finally we run this cool application:
 
 ```console
-prog
+hana-calc
 ```
 
 ## Contact the developer
