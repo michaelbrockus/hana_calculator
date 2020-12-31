@@ -6,4 +6,4 @@ code_dep = declare_dependency(
     link_with: code_lib,
     include_directories: '.')
 
-executable('prog', files('main.c'), dependencies: code_dep, install: true)
+executable('hana-calc', files('main.c'), dependencies: code_dep, install: true)
