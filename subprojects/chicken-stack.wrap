@@ -1,0 +1,5 @@
+[wrap-git]
+directory = chicken-stack
+
+url = https://github.com/chicken-libraries/chicken-stack.git
+revision = main
