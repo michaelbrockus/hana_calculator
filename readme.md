@@ -9,6 +9,12 @@ in either basic or complex math equations. Gain the
 ability to compute the answers to your math questions
 from the command-line.
 
+## Program Preview
+
+* * *
+
+Please add an image for the user to see.
+
 ## Tooling information
 
 * * *
