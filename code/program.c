@@ -6,6 +6,7 @@
 #include "program.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <chicken/stack.h>
 
 //
 // Greet the user
