@@ -1,4 +1,7 @@
+chicken_stack = subproject('chicken-stack')
+
 code_lib = static_library('code_lib', files('program.c'),
+    dependencies : [chicken_stack.get_variable('chicken_stack_dep')],
     include_directories: '.',
     install: true)
 
